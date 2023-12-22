@@ -9,6 +9,8 @@ The possibilities presented by this revolutionary hotel management application a
 Important :
 
 For the application to Run, you must save the following images in a folder called Graphics with the same names and must be saved in the same directory.
+
+
 ![Unoccupied](https://github.com/ridhwxn-vs/Basic-Hotel-Manager-App/assets/145800712/fe129538-76fe-4adf-a539-396625dee773)
 ![Title Main](https://github.com/ridhwxn-vs/Basic-Hotel-Manager-App/assets/145800712/7d6fdf95-d711-46bc-90db-74db7095affc)
 ![Pending Request](https://github.com/ridhwxn-vs/Basic-Hotel-Manager-App/assets/145800712/cab7c9f5-f16a-4a11-9450-ab093bc1acfc)
